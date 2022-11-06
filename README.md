@@ -1,1 +1,1 @@
-# Client_base
+except ValueError: - не работает
